@@ -1813,6 +1813,10 @@ version = "0.1.2"
 submodule = "extensions/inform6"
 version = "1.0.0"
 
+[infracost-ls]
+submodule = "extensions/infracost-ls"
+version = "0.1.0"
+
 [ini]
 submodule = "extensions/ini"
 version = "0.0.7"
@@ -2021,7 +2025,7 @@ version = "1.0.1"
 
 [kotlin]
 submodule = "extensions/kotlin"
-version = "0.2.2"
+version = "0.2.3"
 
 [koto]
 submodule = "extensions/koto"
@@ -3597,6 +3601,10 @@ version = "1.0.3"
 [sagemath]
 submodule = "extensions/sagemath"
 version = "0.1.0"
+
+[salesforce]
+submodule = "extensions/salesforce"
+version = "0.0.3"
 
 [scala]
 submodule = "extensions/scala"
